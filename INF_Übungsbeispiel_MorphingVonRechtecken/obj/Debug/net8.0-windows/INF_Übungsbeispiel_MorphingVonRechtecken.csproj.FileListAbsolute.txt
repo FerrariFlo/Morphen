@@ -1,0 +1,16 @@
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\bin\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.exe
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\bin\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.deps.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\bin\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.runtimeconfig.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\bin\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\bin\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.Form1.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.csproj.GenerateResource.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.AssemblyInfoInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.AssemblyInfo.cs
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.csproj.CoreCompileInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\refint\INF_Übungsbeispiel_MorphingVonRechtecken.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\INF_Übungsbeispiel_MorphingVonRechtecken.genruntimeconfig.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_MorphingVonRechtecken\obj\Debug\net8.0-windows\ref\INF_Übungsbeispiel_MorphingVonRechtecken.dll
